@@ -1,2 +1,2 @@
-# BryanQueroReactPortfolio
-Bryan Quero React Portfolio
+# Bryan Quero React Portfolio
+
