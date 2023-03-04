@@ -8,7 +8,7 @@ import Contact from './components/Contact';
 export default function App(){
   return (
     // This makes sure that the component is initialized  properly  when       the application is started  and loaded into memory
-    <main className='text-gray-400 bg-gray-900 body-font'>
+    <main className="decoration-white  bg-slate-800 body-font">
       <Navbar />
       <About />
       <Projects />
